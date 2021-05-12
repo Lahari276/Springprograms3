@@ -1,0 +1,15 @@
+2021-05-06 21:35:59,652 INFO [main] c.e.L.SpringBootLoggingApplnApplication [StartupInfoLogger.java:55] Starting SpringBootLoggingApplnApplication using Java 15.0.2 on LAHARI-PC with PID 8152 (C:\Users\LAHARI\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\SpringBootLoggingAppln\target\classes started by LAHARI in C:\Users\LAHARI\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\SpringBootLoggingAppln)
+2021-05-06 21:35:59,665 INFO [main] c.e.L.SpringBootLoggingApplnApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-05-06 21:36:03,262 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-05-06 21:36:03,289 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-05-06 21:36:03,291 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-05-06 21:36:03,292 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-06 21:36:03,467 INFO [main] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-05-06 21:36:03,468 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:289] Root WebApplicationContext: initialization completed in 3394 ms
+2021-05-06 21:36:03,870 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-06 21:36:04,225 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-05-06 21:36:04,286 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path ''
+2021-05-06 21:36:04,307 INFO [main] c.e.L.SpringBootLoggingApplnApplication [StartupInfoLogger.java:61] Started SpringBootLoggingApplnApplication in 6.332 seconds (JVM running for 8.246)
+2021-05-06 21:36:36,932 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-06 21:36:36,933 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-05-06 21:36:36,936 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 2 ms
